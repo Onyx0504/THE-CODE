@@ -1,5 +1,5 @@
 # THE-CODE
-Run this code and you will be luckey
+Run this code in eclipse and you will be luckey
 
 
 
